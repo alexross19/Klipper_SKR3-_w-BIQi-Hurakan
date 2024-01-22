@@ -1,5 +1,5 @@
 My SKR/Klipper build is a non-standard build.
-The original was a Trony Xy-2 Pro V3 MCU  printer from Dec 2019
+The original 3d printer was a Trony Xy-2 Pro V3 MCU  printer from Dec 2019
 
 
 
