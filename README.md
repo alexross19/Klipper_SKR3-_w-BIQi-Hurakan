@@ -1,4 +1,4 @@
-My SKR/Klipper build is a non-standard build
+My SKR/Klipper build is a non-standard build.
 The original was a Trony Xy-2 Pro V3 MCU  printer from Dec 2019
 
 
