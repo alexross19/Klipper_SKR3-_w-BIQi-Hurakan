@@ -1,4 +1,4 @@
-My SKR/Klipper build is a nonstandard build.
+My SKR/Klipper build is a non-standard build
 The original was a Trony Xy-2 Pro V3 MCU  printer from Dec 2019
 
 
@@ -43,7 +43,7 @@ Power Output: 		24V 360W
 
 
 Why the upgrades:
-Out of the Box everything work. But the print quality was not excellent &  the original controller worked but had a LOT of glitches it made sense to upgrade:
+Out of the Box, everything works. But the print quality was not excellent &  the original controller worked but had a LOT of glitches it made sense to upgrade:
 
 All the Glitches tracked back to:
 Cheap, dangerous power supply,
